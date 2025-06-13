@@ -1,1 +1,6 @@
 # Cellular_Automata_TME
+
+Modeling tumor progression in heterogeneous microenvironments: A cellular automata approach
+
+
+Understanding how microenvironmental heterogeneity influences tumor progression is essential for advancing both cancer biology and therapeutic strategies. In this study, we develop a cellular automata (CA) model to simulate tumor growth under varying microenvironmental conditions and genetic mutation rates. The model explicitly incorporates cellular heterogeneity of stem and non-stem cells, dynamical cell-cell interactions, and tumor-microenvironment crosstalk. Using computational simulations, we examine the effects of gene mutation rate, initial tumor burden, and microenvironmental state on tumor progression. Our results demonstrate that lowering the mutation rate significantly curtails tumor expansion and preserves microenvironmental integrity. Interestingly, the initial number of tumor cells has a limited impact, whereas the initial condition of the microenvironment critically shapes tumor dynamics. A supportive microenvironment promotes proliferation and spatial spread, while inhibitory conditions suppress tumor growth. These findings highlight the key role of microenvironmental modulation in tumor evolution and provide computational insights that may inform more effective cancer therapies.
